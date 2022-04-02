@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import './homepage.styles.scss'
+import './homepage.styles.scss';
 
 const HomePage = () => (
     <div className='homepage'>
@@ -37,6 +37,6 @@ const HomePage = () => (
             </div>
         </div>
     </div>
-)
+);
 
 export default HomePage;
